@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#image-input {
+  margin: 20px;
+}
+
+#loading-indicator {
+  font-size: 24px;
+  font-weight: bold;
+  display: none;
+}
+
+#caption-output {
+  font-size: 24px;
+  font-weight: bold;
+}
