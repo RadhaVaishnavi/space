@@ -1,1 +1,7 @@
+__pycache__/
+app/static/images/*
+*.pyc
+*.pyo
+*.db
+*.DS_Store
 
